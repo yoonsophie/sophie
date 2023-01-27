@@ -29,18 +29,17 @@ I want to be a great back-end developer <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
 </p>
 <br>
 <p align="center">
 💡used at least once 
 <br>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+<img src="https://img.shields.io/badge/sqlite-003545?style=flat&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=MariaDB&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=RaspberryPi&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
+
 </p>
 
 <hr>
