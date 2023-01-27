@@ -1,4 +1,3 @@
-# sophie
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=yunseonji%20Gitgub&fontSize=90" />
 </br>
