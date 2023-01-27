@@ -8,7 +8,7 @@
 
 <h3> ✨About Me✨ </h3>
 Hi there 👋 <br>
-I am yunyun. <br> 
+I am yunyun <br> 
 I want to be a great back-end developer <br>
 <hr>
 </div>
