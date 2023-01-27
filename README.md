@@ -19,8 +19,8 @@ I want to be a great back-end developer <br>
 💡used at the main
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/flutter-28A0FF?style=flat&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/flutter-6DB33F?style=flat&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Springboot&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
